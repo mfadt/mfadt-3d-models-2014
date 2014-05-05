@@ -8,7 +8,9 @@ There is a folder for each student. Inside the folder are three files:
 - **TEXTURED_[name].obj.mtl** : material file, needed if you are adding the color.png material to the mesh
 
 ## Extra Info
-These 3D models were created using the software [Skanect](skanect.occipital.com).
+You can use pretty much any 3D modeling software to open the files: Maya, 3ds Max, Blender, Mesh Lab, etc.
+
+These 3D models were created using the software [Skanect](skanect.occipital.com). 
 
 Feel free to use these 3D scans for printing, games, animations, etc. 
 
